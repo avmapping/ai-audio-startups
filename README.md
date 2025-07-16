@@ -5,7 +5,7 @@ Community list of startups working with AI for audio and music tech
 # Music
 
 ## Creation & Production
-
+- [A.V. Mapping](https://avmapping.co/en/) - Recommend music from musicians for videos with AI.
 - [Soundry AI](https://soundry.ai/) - AI for Musicians, by Musicians
 - [Sonauto](https://sonauto.ai/Home) - Create hit songs with AI
 - [Microphone Studio](https://microphonestudio.app) - Multi-track recording without expensive studio equipment
